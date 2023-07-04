@@ -1,0 +1,1 @@
+<div class="container"><?php echo ADS1;?></div>
